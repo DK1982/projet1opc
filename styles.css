@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+}
+
+.item {
+    height: 150px;
+    border: solid 3px;
+    border-color: black;
+    border-radius: 10px;
+    background-color: blue;
+    margin: 3px;
+    text-align: center;
+}
+
+.choses {
+    border: solid 3px #00000;
+    color: azure;
+}
